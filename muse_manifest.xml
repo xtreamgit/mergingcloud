@@ -1,0 +1,105 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mergingcloud.com" resolutions="1x" timestamp="1472487165224">
+  <folder name="css">
+    <file name="site_global.css" crc="491494384"/>
+    <file name="master_master-template.css" crc="336252251" ref="about:clients:aws-solution-architecture:index:cloud-devops-survey:portfolio:aws-services-integration:contact-us:cloud-services"/>
+    <file name="nomq_preview_master_master-template.css" crc="3808804424" ref="about:clients:aws-solution-architecture:index:cloud-devops-survey:portfolio:aws-services-integration:contact-us:cloud-services"/>
+    <file name="about.css" crc="4018229871" ref="about"/>
+    <file name="nomq_about.css" crc="3790384668" ref="about"/>
+    <file name="clients.css" crc="4018229871" ref="clients"/>
+    <file name="nomq_clients.css" crc="3790384668" ref="clients"/>
+    <file name="aws-solution-architecture.css" crc="4018229871" ref="aws-solution-architecture"/>
+    <file name="nomq_aws-solution-architecture.css" crc="3790384668" ref="aws-solution-architecture"/>
+    <file name="index.css" crc="6661406" ref="index"/>
+    <file name="nomq_index.css" crc="3879376080" ref="index"/>
+    <file name="cloud-devops-survey.css" crc="4018229871" ref="cloud-devops-survey"/>
+    <file name="nomq_cloud-devops-survey.css" crc="3790384668" ref="cloud-devops-survey"/>
+    <file name="portfolio.css" crc="3855258833" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="3939911540" ref="portfolio"/>
+    <file name="aws-services-integration.css" crc="4018229871" ref="aws-services-integration"/>
+    <file name="nomq_aws-services-integration.css" crc="3790384668" ref="aws-services-integration"/>
+    <file name="contact-us.css" crc="4018229871" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="3790384668" ref="contact-us"/>
+    <file name="cloud-services.css" crc="4018229871" ref="cloud-services"/>
+    <file name="nomq_cloud-services.css" crc="3790384668" ref="cloud-services"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="phone>index:phone>untitled-2:phone>untitled-3:phone>untitled-4:tablet>index:tablet>untitled-2:portfolio:contact-us:index:about:cloud-services:aws-services-integration:cloud-devops-survey:aws-solution-architecture:clients"/>
+    <file name="museutils.js" crc="3851988764" ref="phone>index:phone>untitled-2:phone>untitled-3:phone>untitled-4:tablet>index:tablet>untitled-2:portfolio:contact-us:index:about:cloud-services:aws-services-integration:cloud-devops-survey:aws-solution-architecture:clients"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>untitled-2:phone>untitled-3:phone>untitled-4:tablet>index:tablet>untitled-2:portfolio:contact-us:index:about:cloud-services:aws-services-integration:cloud-devops-survey:aws-solution-architecture:clients"/>
+    <file name="museconfig.js" crc="169177150" ref="phone>index:phone>untitled-2:phone>untitled-3:phone>untitled-4:tablet>index:tablet>untitled-2:portfolio:contact-us:index:about:cloud-services:aws-services-integration:cloud-devops-survey:aws-solution-architecture:clients"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="phone>index:phone>untitled-2:phone>untitled-3:phone>untitled-4:tablet>index:tablet>untitled-2:portfolio:contact-us:index:about:cloud-services:aws-services-integration:cloud-devops-survey:aws-solution-architecture:clients"/>
+    <file name="require.js" crc="4108833657" ref="phone>index:phone>untitled-2:phone>untitled-3:phone>untitled-4:tablet>index:tablet>untitled-2:portfolio:contact-us:index:about:cloud-services:aws-services-integration:cloud-devops-survey:aws-solution-architecture:clients"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="portfolio:contact-us:index:about:cloud-services:aws-services-integration:cloud-devops-survey:aws-solution-architecture:clients"/>
+    <file name="pie.js" crc="3831537696" ref="portfolio"/>
+    <file name="webpro.js" crc="4067903014" ref="portfolio:contact-us:index:about:cloud-services:aws-services-integration:cloud-devops-survey:aws-solution-architecture:clients"/>
+    <file name="form_check.php" crc="121412709" ref="portfolio"/>
+    <file name="form_throttle.php" crc="4268640971" ref="portfolio"/>
+    <file name="form_process.php" crc="444429785" ref="portfolio"/>
+    <file name="form-u3158.php" crc="3943808691" ref="portfolio"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="portfolio"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="portfolio:contact-us:index:about:cloud-services:aws-services-integration:cloud-devops-survey:aws-solution-architecture:clients"/>
+    <file name="html5shiv.js" crc="4241844378" ref="portfolio:contact-us:index:about:cloud-services:aws-services-integration:cloud-devops-survey:aws-solution-architecture:clients"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="portfolio:contact-us:index:about:cloud-services:aws-services-integration:cloud-devops-survey:aws-solution-architecture:clients"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-22076x220.svg" crc="3955071921" seo="true" ref="phone>index"/>
+    <file name="pasted svg 22076x220_poster_.png" crc="4175883901" ref="phone>index"/>
+    <file name="pasted-svg-22076x2202.svg" crc="3898594940" seo="true" ref="phone>index"/>
+    <file name="pasted svg 22076x220_poster_2.png" crc="169172786" ref="phone>index"/>
+    <file name="pasted-svg-22076x2203.svg" crc="4164560710" seo="true" ref="phone>index"/>
+    <file name="pasted svg 22076x220_poster_3.png" crc="4254496788" ref="phone>index"/>
+    <file name="pasted-svg-22076x2204.svg" crc="489579377" seo="true" ref="phone>index"/>
+    <file name="pasted svg 22076x220_poster_4.png" crc="4090351183" ref="phone>index"/>
+    <file name="pasted-svg-22076x2205.svg" crc="87431430" seo="true" ref="phone>index"/>
+    <file name="pasted svg 22076x220_poster_5.png" crc="17123012" ref="phone>index"/>
+    <file name="arrowmenudown.png" crc="345214036" ref="portfolio"/>
+    <file name="blank.gif" crc="4208392903" ref="portfolio:contact-us:index:about:cloud-services:aws-services-integration:cloud-devops-survey:aws-solution-architecture:clients"/>
+    <file name="logo_facebook.png" crc="4108623858" seo="true" ref="portfolio:contact-us:index:about:cloud-services:aws-services-integration:cloud-devops-survey:aws-solution-architecture:clients"/>
+    <file name="logo_pinterest.svg" crc="3994342665" seo="true" ref="portfolio:contact-us:index:about:cloud-services:aws-services-integration:cloud-devops-survey:aws-solution-architecture:clients"/>
+    <file name="logo_pinterest_poster_.png" crc="3989252018" ref="portfolio"/>
+    <file name="logo_twitter.svg" crc="268142001" seo="true" ref="portfolio:contact-us:index:about:cloud-services:aws-services-integration:cloud-devops-survey:aws-solution-architecture:clients"/>
+    <file name="logo_twitter_poster_.png" crc="523113696" ref="portfolio"/>
+    <file name="u3159-17.png" crc="4082905259" ref="portfolio:contact-us:index:about:cloud-services:aws-services-integration:cloud-devops-survey:aws-solution-architecture:clients"/>
+    <file name="u3159-17-r.png" crc="94606737" ref="portfolio:contact-us:index:about:cloud-services:aws-services-integration:cloud-devops-survey:aws-solution-architecture:clients"/>
+    <file name="u3159-17-m.png" crc="294186456" ref="portfolio:contact-us:index:about:cloud-services:aws-services-integration:cloud-devops-survey:aws-solution-architecture:clients"/>
+    <file name="u3159-17-fs.png" crc="501616717" ref="portfolio:contact-us:index:about:cloud-services:aws-services-integration:cloud-devops-survey:aws-solution-architecture:clients"/>
+    <file name="hamburger menu.svg" crc="301711812" ref="portfolio"/>
+    <file name="hamburger menu_poster_u18140.png" crc="4224634784" ref="portfolio"/>
+    <file name="x menu_1.svg" crc="474157373" ref="portfolio"/>
+    <file name="x menu_1_poster_u18154.png" crc="517586372" ref="portfolio"/>
+    <file name="artboard 6.png" crc="438522246" seo="true" ref="index"/>
+    <file name="mergingcloud-logo1.svg" crc="4217004619" seo="true" ref="index"/>
+    <file name="mergingcloud-logo1_poster_.png" crc="3941793243" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4056812896" ref="tablet>index"/>
+      <file name="untitled-2.css" crc="4021538510" ref="tablet>untitled-2"/>
+      <file name="nomq_untitled-2.css" crc="3824530138" ref="tablet>untitled-2"/>
+    </folder>
+    <file name="index.html" crc="4247575255" seo="true" mt="1471892163198" redirect="false"/>
+    <file name="untitled-2.html" crc="4256614447" seo="true" mt="1471826790087" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="143259987" ref="phone>index"/>
+      <file name="untitled-2.css" crc="62426684" ref="phone>untitled-2"/>
+      <file name="untitled-3.css" crc="62426684" ref="phone>untitled-3"/>
+      <file name="untitled-4.css" crc="62426684" ref="phone>untitled-4"/>
+      <file name="nomq_untitled-4.css" crc="3824530138" ref="phone>untitled-4"/>
+    </folder>
+    <file name="index.html" crc="3898683864" seo="true" mt="1471896007103" redirect="true"/>
+    <file name="untitled-2.html" crc="3940129533" seo="true" mt="1471826790090" redirect="false"/>
+    <file name="untitled-3.html" crc="4147897329" seo="true" mt="1471827769848" redirect="false"/>
+    <file name="untitled-4.html" crc="276201559" seo="true" mt="1471827797789" redirect="false"/>
+  </folder>
+  <file name="portfolio.html" crc="3768917849" seo="true" mt="1472076595736" redirect="true"/>
+  <file name="contact-us.html" crc="3837722368" seo="true" mt="1472008262467" redirect="true"/>
+  <file name="index.html" crc="3981362157" seo="true" mt="1472486577091" redirect="true"/>
+  <file name="about.html" crc="4188708465" seo="true" mt="1472008262467" redirect="true"/>
+  <file name="cloud-services.html" crc="4066787619" seo="true" mt="1472008262467" redirect="true"/>
+  <file name="aws-services-integration.html" crc="185448048" seo="true" mt="1472008262467" redirect="true"/>
+  <file name="cloud-devops-survey.html" crc="3971863143" seo="true" mt="1472008262467" redirect="true"/>
+  <file name="aws-solution-architecture.html" crc="514372048" seo="true" mt="1472008262467" redirect="true"/>
+  <file name="clients.html" crc="4168088065" seo="true" mt="1472008262467" redirect="true"/>
+</manifest>
