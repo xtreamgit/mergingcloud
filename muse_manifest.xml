@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mergingcloud.com" resolutions="1x" timestamp="1472493113845">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mergingcloud.com" resolutions="1x" timestamp="1472493610970">
   <folder name="css">
     <file name="site_global.css" crc="491494384"/>
     <file name="master_master-template.css" crc="4164561205" ref="about:clients:aws-solution-architecture:index:cloud-devops-survey:portfolio:aws-services-integration:contact-us:cloud-services"/>
